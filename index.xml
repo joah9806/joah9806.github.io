@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://joah9806.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 19:52:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://joah9806.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>插入图片</title>
+      <link>https://joah9806.github.io/post/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 05 Jul 2020 19:52:41 +0800</pubDate>
+      
+      <guid>https://joah9806.github.io/post/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>插入一张图片</description>
+    </item>
+    
+    <item>
+      <title>上传博客的指令</title>
+      <link>https://joah9806.github.io/post/oneday/</link>
+      <pubDate>Sun, 05 Jul 2020 17:39:41 +0800</pubDate>
+      
+      <guid>https://joah9806.github.io/post/oneday/</guid>
+      <description>hugo server -t simple-blog &amp;ndash;buildDrafts
+hugo &amp;ndash;theme=simple-blog &amp;ndash;baseUrl=&amp;quot;https://joah9806.github.io/&amp;rdquo; &amp;ndash;buildDrafts
+cd public
+git init
+git add .
+git commit -m &amp;quot;&amp;rdquo;
+git remote add origin https://github.com/joah9806/joah9806.github.io.git
+git push -u origin master</description>
+    </item>
+    
+  </channel>
+</rss>
